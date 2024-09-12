@@ -1,0 +1,11 @@
+{
+	"name": "electrical-company",
+	"version": "1.0.0",
+	"dependencies": {
+		"tctx": "^0.2.3"
+	},
+	"devDependencies": {
+		"@types/node": "^22.5.4",
+		"typescript": "^5.3.3"
+	}
+}
